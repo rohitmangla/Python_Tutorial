@@ -14,3 +14,6 @@ print (C)
 # Addition of two matrices [D= B+C]
 D= B+C
 print ('D =', D)
+
+# matrix .dot product
+
