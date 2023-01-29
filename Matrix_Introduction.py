@@ -1,4 +1,5 @@
 import numpy as np
+from numpy import dot
 
 # Create a 2x2 matrix A
 A = np.array ([[1, 2], [ 3 , 4]])
@@ -16,4 +17,5 @@ D= B+C
 print ('D =', D)
 
 # matrix .dot product
+E = dot (C, D)
 
